@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wishyougoodluck/static/css/main.4a0e66f8.chunk.css",
+    "main.js": "/wishyougoodluck/static/js/main.d0186675.chunk.js",
+    "main.js.map": "/wishyougoodluck/static/js/main.d0186675.chunk.js.map",
+    "runtime-main.js": "/wishyougoodluck/static/js/runtime-main.caee33b9.js",
+    "runtime-main.js.map": "/wishyougoodluck/static/js/runtime-main.caee33b9.js.map",
+    "static/js/2.9d461251.chunk.js": "/wishyougoodluck/static/js/2.9d461251.chunk.js",
+    "static/js/2.9d461251.chunk.js.map": "/wishyougoodluck/static/js/2.9d461251.chunk.js.map",
+    "static/js/3.56cfe76d.chunk.js": "/wishyougoodluck/static/js/3.56cfe76d.chunk.js",
+    "static/js/3.56cfe76d.chunk.js.map": "/wishyougoodluck/static/js/3.56cfe76d.chunk.js.map",
+    "index.html": "/wishyougoodluck/index.html",
+    "static/css/main.4a0e66f8.chunk.css.map": "/wishyougoodluck/static/css/main.4a0e66f8.chunk.css.map",
+    "static/js/2.9d461251.chunk.js.LICENSE.txt": "/wishyougoodluck/static/js/2.9d461251.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.caee33b9.js",
+    "static/js/2.9d461251.chunk.js",
+    "static/css/main.4a0e66f8.chunk.css",
+    "static/js/main.d0186675.chunk.js"
+  ]
+}
